@@ -5,10 +5,23 @@ body {
 /* Hero Section */
 
 #Hero-Section {
-  background-image: url("../img/bg-hero.jpg");
+  background-image: url("../img/fondo\ div.jpg");
   background-repeat: no-repeat;
   background-size: cover;
   background-position: left;
+  
+  
+}
+
+nav {
+  
+  background-image: radial-gradient(circle at 50% -20.71%, #ffae3d 0, #fea140 10%, #f89343 20%, #ef8445 30%, #e27546 40%, #d26546 50%, #c15645 60%, #b14a44 70%, #a23f43 80%, #953643 90%, #893043 100%);
+}
+
+#Hero-Section p{
+
+ color: white;
+ opacity: 100%;
 }
 
 /* Mis trabajos */
