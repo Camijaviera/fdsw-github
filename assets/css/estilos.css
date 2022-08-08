@@ -15,7 +15,7 @@ body {
 
 nav {
   
-  background-image: radial-gradient(circle at 50% -20.71%, #ffae3d 0, #fea140 10%, #f89343 20%, #ef8445 30%, #e27546 40%, #d26546 50%, #c15645 60%, #b14a44 70%, #a23f43 80%, #953643 90%, #893043 100%);
+  background-image: linear-gradient(20deg, #cdb184 0, #caa87c 12.5%, #c49b6f 25%, #bb8b5f 37.5%, #af764c 50%, #a2613b 62.5%, #99502f 75%, #924228 87.5%, #8f3827 100%);
 }
 
 #Hero-Section p{
