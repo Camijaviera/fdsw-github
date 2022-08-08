@@ -24,6 +24,15 @@ nav {
  opacity: 100%;
 }
 
+div a{
+  text-decoration: none;
+  color: white;
+}
+
+div a:hover{
+  color: white;
+}
+
 /* Mis trabajos */
 
 #Mis-trabajos .image-top {
@@ -31,6 +40,10 @@ nav {
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
+}
+
+.background{
+  background-color: #a56028;
 }
 
 /* Contacto */
@@ -49,4 +62,14 @@ nav {
     width: 100px;
   }
 
+}
+
+footer a{
+  color: white;
+  text-decoration: none;
+  float: right;
+}
+
+footer a:hover{
+  color: rgb(255, 0, 0);
 }
